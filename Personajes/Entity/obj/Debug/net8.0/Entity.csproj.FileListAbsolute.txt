@@ -1,0 +1,42 @@
+C:\Users\SENA\source\repos\Personajes\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\SENA\source\repos\Personajes\Entity\bin\Debug\net8.0\Entity.runtimeconfig.json
+C:\Users\SENA\source\repos\Personajes\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\SENA\source\repos\Personajes\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\SENA\source\repos\Personajes\Entity\obj\Debug\net8.0\Entity.csproj.AssemblyReference.cache
+C:\Users\SENA\source\repos\Personajes\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\source\repos\Personajes\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\Personajes\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\SENA\source\repos\Personajes\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\Personajes\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\SENA\source\repos\Personajes\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\SENA\source\repos\Personajes\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\SENA\source\repos\Personajes\Entity\obj\Debug\net8.0\Entity.genruntimeconfig.cache
+C:\Users\SENA\source\repos\Personajes\Entity\obj\Debug\net8.0\ref\Entity.dll
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Entity\bin\Debug\net8.0\Entity.runtimeconfig.json
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Entity\obj\Debug\net8.0\Entity.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Entity\obj\Debug\net8.0\Entity.genruntimeconfig.cache
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Entity\obj\Debug\net8.0\ref\Entity.dll
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Entity\bin\Debug\net8.0\Entity.runtimeconfig.json
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Entity\obj\Debug\net8.0\Entity.csproj.AssemblyReference.cache
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Entity\obj\Debug\net8.0\Entity.genruntimeconfig.cache
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Entity\obj\Debug\net8.0\ref\Entity.dll

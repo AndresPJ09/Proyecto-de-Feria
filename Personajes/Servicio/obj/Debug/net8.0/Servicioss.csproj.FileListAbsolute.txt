@@ -1,0 +1,51 @@
+C:\Users\SENA\source\repos\Personajes\Servicio\bin\Debug\net8.0\Servicioss.deps.json
+C:\Users\SENA\source\repos\Personajes\Servicio\bin\Debug\net8.0\Servicioss.dll
+C:\Users\SENA\source\repos\Personajes\Servicio\bin\Debug\net8.0\Servicioss.pdb
+C:\Users\SENA\source\repos\Personajes\Servicio\bin\Debug\net8.0\Entity.dll
+C:\Users\SENA\source\repos\Personajes\Servicio\bin\Debug\net8.0\Entity.pdb
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\Servicioss.csproj.AssemblyReference.cache
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\Servicioss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\Servicioss.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\Servicioss.AssemblyInfo.cs
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\Servicioss.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\Servicioss.csproj.Up2Date
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\Servicioss.dll
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\refint\Servicioss.dll
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\Servicioss.pdb
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\ref\Servicioss.dll
+C:\Users\SENA\source\repos\Personajes\Servicio\bin\Debug\net8.0\Data.dll
+C:\Users\SENA\source\repos\Personajes\Servicio\bin\Debug\net8.0\Data.pdb
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\bin\Debug\net8.0\Servicioss.deps.json
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\bin\Debug\net8.0\Servicioss.dll
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\bin\Debug\net8.0\Servicioss.pdb
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\bin\Debug\net8.0\Data.dll
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\bin\Debug\net8.0\Entity.dll
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\bin\Debug\net8.0\Data.pdb
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\bin\Debug\net8.0\Entity.pdb
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\obj\Debug\net8.0\Servicioss.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\obj\Debug\net8.0\Servicioss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\obj\Debug\net8.0\Servicioss.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\obj\Debug\net8.0\Servicioss.AssemblyInfo.cs
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\obj\Debug\net8.0\Servicioss.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\obj\Debug\net8.0\Servicioss.csproj.Up2Date
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\obj\Debug\net8.0\Servicioss.dll
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\obj\Debug\net8.0\refint\Servicioss.dll
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\obj\Debug\net8.0\Servicioss.pdb
+C:\Users\SENA\Desktop\Proyecto feria\Personajes\Servicio\obj\Debug\net8.0\ref\Servicioss.dll
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\bin\Debug\net8.0\Servicioss.deps.json
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\bin\Debug\net8.0\Servicioss.dll
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\bin\Debug\net8.0\Servicioss.pdb
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\bin\Debug\net8.0\Data.dll
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\bin\Debug\net8.0\Entity.dll
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\bin\Debug\net8.0\Data.pdb
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\bin\Debug\net8.0\Entity.pdb
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\obj\Debug\net8.0\Servicioss.csproj.AssemblyReference.cache
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\obj\Debug\net8.0\Servicioss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\obj\Debug\net8.0\Servicioss.AssemblyInfoInputs.cache
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\obj\Debug\net8.0\Servicioss.AssemblyInfo.cs
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\obj\Debug\net8.0\Servicioss.csproj.CoreCompileInputs.cache
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\obj\Debug\net8.0\Servicioss.csproj.Up2Date
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\obj\Debug\net8.0\Servicioss.dll
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\obj\Debug\net8.0\refint\Servicioss.dll
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\obj\Debug\net8.0\Servicioss.pdb
+C:\Users\JACKE JARAMILLO\Desktop\Proyectos del trabajo\Personajes\Servicio\obj\Debug\net8.0\ref\Servicioss.dll

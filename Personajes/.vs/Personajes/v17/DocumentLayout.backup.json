@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENA\\Desktop\\Proyecto feria\\Personajes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{665A440F-F977-48B7-BDDE-2CE64BC08D2E}|WebA\\WebA.csproj|c:\\users\\sena\\desktop\\proyecto feria\\personajes\\weba\\controllers\\model\\implements\\personajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A440F-F977-48B7-BDDE-2CE64BC08D2E}|WebA\\WebA.csproj|solutionrelative:weba\\controllers\\model\\implements\\personajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A440F-F977-48B7-BDDE-2CE64BC08D2E}|WebA\\WebA.csproj|c:\\users\\sena\\desktop\\proyecto feria\\personajes\\weba\\controllers\\model\\interface\\ipersonajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A440F-F977-48B7-BDDE-2CE64BC08D2E}|WebA\\WebA.csproj|solutionrelative:weba\\controllers\\model\\interface\\ipersonajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473433B8-9710-42BE-911C-2066FCC0F87F}|Servicio\\Servicioss.csproj|c:\\users\\sena\\desktop\\proyecto feria\\personajes\\servicio\\model\\implements\\personajeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473433B8-9710-42BE-911C-2066FCC0F87F}|Servicio\\Servicioss.csproj|solutionrelative:servicio\\model\\implements\\personajeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B41765-F440-46B8-877B-45A973F79CD9}|Data\\Data.csproj|c:\\users\\sena\\desktop\\proyecto feria\\personajes\\data\\model\\implements\\personajedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B41765-F440-46B8-877B-45A973F79CD9}|Data\\Data.csproj|solutionrelative:data\\model\\implements\\personajedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5342B3A8-B585-4437-A260-1E0C17763D33}|Entity\\Entity.csproj|c:\\users\\sena\\desktop\\proyecto feria\\personajes\\entity\\model\\implements\\personajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5342B3A8-B585-4437-A260-1E0C17763D33}|Entity\\Entity.csproj|solutionrelative:entity\\model\\implements\\personajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPersonajeController.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\Proyecto feria\\Personajes\\WebA\\Controllers\\Model\\Interface\\IPersonajeController.cs",
+              "RelativeDocumentMoniker": "WebA\\Controllers\\Model\\Interface\\IPersonajeController.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\Proyecto feria\\Personajes\\WebA\\Controllers\\Model\\Interface\\IPersonajeController.cs",
+              "RelativeToolTip": "WebA\\Controllers\\Model\\Interface\\IPersonajeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:08:56.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonajeController.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\Proyecto feria\\Personajes\\WebA\\Controllers\\Model\\Implements\\PersonajeController.cs",
+              "RelativeDocumentMoniker": "WebA\\Controllers\\Model\\Implements\\PersonajeController.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\Proyecto feria\\Personajes\\WebA\\Controllers\\Model\\Implements\\PersonajeController.cs",
+              "RelativeToolTip": "WebA\\Controllers\\Model\\Implements\\PersonajeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:49:03.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonajeService.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\Proyecto feria\\Personajes\\Servicio\\Model\\Implements\\PersonajeService.cs",
+              "RelativeDocumentMoniker": "Servicio\\Model\\Implements\\PersonajeService.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\Proyecto feria\\Personajes\\Servicio\\Model\\Implements\\PersonajeService.cs",
+              "RelativeToolTip": "Servicio\\Model\\Implements\\PersonajeService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAzwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:48:52.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonajeData.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\Proyecto feria\\Personajes\\Data\\Model\\Implements\\PersonajeData.cs",
+              "RelativeDocumentMoniker": "Data\\Model\\Implements\\PersonajeData.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\Proyecto feria\\Personajes\\Data\\Model\\Implements\\PersonajeData.cs",
+              "RelativeToolTip": "Data\\Model\\Implements\\PersonajeData.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:48:46.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Personajes.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\Proyecto feria\\Personajes\\Entity\\Model\\Implements\\Personajes.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Implements\\Personajes.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\Proyecto feria\\Personajes\\Entity\\Model\\Implements\\Personajes.cs",
+              "RelativeToolTip": "Entity\\Model\\Implements\\Personajes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:48:40.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

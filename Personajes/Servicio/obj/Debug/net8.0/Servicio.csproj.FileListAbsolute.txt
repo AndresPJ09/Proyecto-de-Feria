@@ -1,0 +1,15 @@
+C:\Users\SENA\source\repos\Personajes\Servicio\bin\Debug\net8.0\Servicio.deps.json
+C:\Users\SENA\source\repos\Personajes\Servicio\bin\Debug\net8.0\Servicio.dll
+C:\Users\SENA\source\repos\Personajes\Servicio\bin\Debug\net8.0\Servicio.pdb
+C:\Users\SENA\source\repos\Personajes\Servicio\bin\Debug\net8.0\Entity.dll
+C:\Users\SENA\source\repos\Personajes\Servicio\bin\Debug\net8.0\Entity.pdb
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\Servicio.csproj.AssemblyReference.cache
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\Servicio.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\Servicio.AssemblyInfo.cs
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\Servicio.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\Servicio.csproj.Up2Date
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\Servicio.dll
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\refint\Servicio.dll
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\Servicio.pdb
+C:\Users\SENA\source\repos\Personajes\Servicio\obj\Debug\net8.0\ref\Servicio.dll
